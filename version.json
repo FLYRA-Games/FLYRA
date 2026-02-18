@@ -1,1 +1,8 @@
-
+{
+  "version": "1.0",
+  "files": {
+    "Game.exe": "hash123",
+    "Assets/level1.assetbundle": "hash456",
+    "Assets/textures/player.png": "hash789"
+  }
+}
